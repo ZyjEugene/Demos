@@ -2,8 +2,8 @@
 //  ViewController.h
 //  DelegateObject
 //
-//  Created by Eugene on 2017/5/29.
-//  Copyright © 2017年 Eugene. All rights reserved.
+//  Created by tongqu on 2017/5/26.
+//  Copyright © 2017年 Eugene Space. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
