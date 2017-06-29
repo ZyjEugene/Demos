@@ -5,7 +5,7 @@
 ------
 
 
-![demo内容](./swift3 tableview demo.gif)
+![demo内容](swift3 tableview demo.gif)
 
 
 ###### 写点什么
