@@ -5,7 +5,7 @@
 ------
 
 
-![demo内容](../swift3tableviewdemo.gif)
+![demo内容](./swift3tableviewdemo.gif)
 
 
 ###### 写点什么
