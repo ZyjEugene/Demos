@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script type="text/javascript">
+
+        var share = JSON.stringify({"title": "Migi000",
+            "desc": "简书",
+            "shareUrl": "http://www.jianshu.com/p/f896d73c670a"
+        });
+
+        //IOS
+        function startFunction(share){
+            window.android.startFunction(share)//android
+        }
+
+    </script>
+</head>
+<body>
+
+    <br/>
+    <h1>Objective-C和JavaScript交互的那些事</h1> <br/>
+    <input  type="button" value="Share" onClick="startFunction(share)" >点击调用原生代码并传递参数</a>
+
+</body>
+</html>
