@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4401EA461F20FAC300EA56AA /* DataConvertedBytesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4401EA451F20FAC300EA56AA /* DataConvertedBytesViewController.swift */; };
 		CC341FEE1F033ED800D08CF1 /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC341FED1F033ED800D08CF1 /* SideMenuViewController.swift */; };
 		CC341FF21F039DDE00D08CF1 /* TQSideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC341FF11F039DDE00D08CF1 /* TQSideMenu.swift */; };
 		CC8E08331EF90A530033FF1B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC8E08321EF90A530033FF1B /* AppDelegate.swift */; };
@@ -42,6 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4401EA451F20FAC300EA56AA /* DataConvertedBytesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataConvertedBytesViewController.swift; sourceTree = "<group>"; };
 		CC341FED1F033ED800D08CF1 /* SideMenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
 		CC341FF11F039DDE00D08CF1 /* TQSideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TQSideMenu.swift; sourceTree = "<group>"; };
 		CC8E082F1EF90A530033FF1B /* TableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableView.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -152,6 +154,7 @@
 				CC8E08671EFB53C80033FF1B /* AdaptionCellViewController.swift */,
 				CC8E08681EFB53C80033FF1B /* CustomCellViewController.swift */,
 				CC341FED1F033ED800D08CF1 /* SideMenuViewController.swift */,
+				4401EA451F20FAC300EA56AA /* DataConvertedBytesViewController.swift */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 				CC8E086F1EFB53C80033FF1B /* SimpleViewController.swift in Sources */,
 				CC8E08721EFB54180033FF1B /* ImageViewCell.swift in Sources */,
 				CC8E08331EF90A530033FF1B /* AppDelegate.swift in Sources */,
+				4401EA461F20FAC300EA56AA /* DataConvertedBytesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

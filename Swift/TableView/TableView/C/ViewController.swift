@@ -23,6 +23,8 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        
         getDemoTitles()
 
         getTableView()
@@ -48,11 +50,13 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         titles = ["Swift3.0 简单的tableView练习",
                   "Swift3.0 tableView单元格高度自适应",
                   "Swift3.0 tableView单元格图片高度自适应",
-                  "Swift3.0 SideMenu"]
+                  "Swift3.0 SideMenu",
+                  "Swift3.0 DataConvertedBytes"]
         demos = ["SimpleViewController",
                   "AdaptionCellViewController",
                   "CustomCellViewController",
-                  "SideMenuViewController"]
+                  "SideMenuViewController",
+                  "DataConvertedBytesViewController"]
         self.titles = titles
         self.demos = demos
     }
